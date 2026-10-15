@@ -1,0 +1,1 @@
+This repository contains the full HackArena Final scaffold. If you see this file, the finalization commit was applied successfully.
